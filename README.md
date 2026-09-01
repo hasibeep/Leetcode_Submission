@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hasibeep/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
