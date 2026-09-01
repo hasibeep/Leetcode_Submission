@@ -23,12 +23,12 @@ public:
         int j=w.size()-1;
 
         while(i<j){
-            if(w[i]==w[j]){
-                i++;
-                j--;
+            if(w[i]!=w[j]){
+                return false;
             }
             else {
-                return false;
+                 i++;
+                 j--;
             }
         }
       return true;
