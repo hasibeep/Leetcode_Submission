@@ -44,8 +44,9 @@ public:
                 reduce(mp,nums[left]);
                 left++;
             }
+            
+            max_size=max(max_size,right-left+1);
             right++;
-            max_size=max(max_size,right-left);
         }
         return max_size;
     }
