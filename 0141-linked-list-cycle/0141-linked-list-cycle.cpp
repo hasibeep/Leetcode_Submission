@@ -15,11 +15,12 @@ public:
        unordered_map<ListNode*,int>mp;
        ListNode* temp=head;
        while(temp!=NULL){
-        mp[temp]++;
-        temp=temp->next;
-        if(mp[temp]>1){
+        if(mp[temp]>0){
             return true;
         }
+        mp[temp]++;
+        temp=temp->next;
+        
        }
       return false;
     }
