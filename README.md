@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hasibeep/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hasibeep/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -71,8 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hasibeep/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hasibeep/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
