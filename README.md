@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -105,5 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/hasibeep/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
