@@ -98,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hasibeep/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/hasibeep/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/hasibeep/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
