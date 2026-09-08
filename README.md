@@ -101,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/hasibeep/Leetcode_Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hasibeep/Leetcode_Submission/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hasibeep/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hasibeep/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hasibeep/Leetcode_Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hasibeep/Leetcode_Submission/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
