@@ -1,11 +1,8 @@
 class Solution {
 public:
     int countCommas(int n) {
-        int x=n-999;
-        if(x<=0){
-            return 0;
-        }
-        return x;
+        if(n-999<=0) return 0;
+        return n-999;
 
     }
 };
