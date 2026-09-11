@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hasibeep/Leetcode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hasibeep/Leetcode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hasibeep/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hasibeep/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hasibeep/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hasibeep/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hasibeep/Leetcode_Submission/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hasibeep/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hasibeep/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hasibeep/Leetcode_Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/hasibeep/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
