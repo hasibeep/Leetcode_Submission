@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hasibeep/Leetcode_Submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/hasibeep/Leetcode_Submission/tree/master/0836-rectangle-overlap) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hasibeep/Leetcode_Submission/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hasibeep/Leetcode_Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hasibeep/Leetcode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hasibeep/Leetcode_Submission/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
