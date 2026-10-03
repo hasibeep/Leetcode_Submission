@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/hasibeep/Leetcode_Submission/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/hasibeep/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
