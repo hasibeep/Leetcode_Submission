@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/hasibeep/Leetcode_Submission/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hasibeep/Leetcode_Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/hasibeep/Leetcode_Submission/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Union-Find
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hasibeep/Leetcode_Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hasibeep/Leetcode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/3524-find-x-value-of-array-i) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/hasibeep/Leetcode_Submission/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Memoization
 |  |
 | ------- |
