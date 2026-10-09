@@ -1,8 +1,8 @@
 class Solution {
 public:
-    void prints(vector<int>& candidates,set<vector<int>>& v,vector<int>& w,int i,int &s,int target){
+    void prints(vector<int>& candidates,vector<vector<int>>& v,vector<int>& w,int i,int &s,int target){
         if(s==target){
-           v.insert(w); 
+           v.push_back(w); 
            return ;
         }
         if(s>target || i==candidates.size()) return;
@@ -18,10 +18,10 @@ public:
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(),candidates.end());
-        set<vector<int>>v;
+        vector<vector<int>>v;
         vector<int> w;
         int s=0;
         prints(candidates,v,w,0,s,target);
-        return vector<vector<int>>(v.begin(),v.end());
+        return v;
     }
 };
