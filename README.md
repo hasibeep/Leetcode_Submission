@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hasibeep/Leetcode_Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hasibeep/Leetcode_Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
