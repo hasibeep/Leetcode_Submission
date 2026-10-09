@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/hasibeep/Leetcode_Submission/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hasibeep/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [1096-brace-expansion-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hasibeep/Leetcode_Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hasibeep/Leetcode_Submission/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hasibeep/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/hasibeep/Leetcode_Submission/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hasibeep/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hasibeep/Leetcode_Submission/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
