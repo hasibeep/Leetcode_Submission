@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hasibeep/Leetcode_Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hasibeep/Leetcode_Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hasibeep/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/hasibeep/Leetcode_Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
