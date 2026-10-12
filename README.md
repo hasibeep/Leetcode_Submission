@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/hasibeep/Leetcode_Submission/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/hasibeep/Leetcode_Submission/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hasibeep/Leetcode_Submission/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/hasibeep/Leetcode_Submission/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/hasibeep/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hasibeep/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/hasibeep/Leetcode_Submission/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/hasibeep/Leetcode_Submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
