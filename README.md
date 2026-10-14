@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hasibeep/Leetcode_Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hasibeep/Leetcode_Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hasibeep/Leetcode_Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hasibeep/Leetcode_Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hasibeep/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
