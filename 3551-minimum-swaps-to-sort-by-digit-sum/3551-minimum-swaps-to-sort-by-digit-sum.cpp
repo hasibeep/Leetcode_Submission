@@ -11,7 +11,7 @@ public:
     int minSwaps(vector<int>& nums) {
         vector<int>v(nums);
         int n=nums.size();
-        auto lambda=[this](int num1,int num2){
+        auto lambda=[&](int num1,int num2){
             int d1=digitsum(num1);
             int d2=digitsum(num2);
 
