@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/hasibeep/Leetcode_Submission/tree/master/0735-asteroid-collision) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hasibeep/Leetcode_Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hasibeep/Leetcode_Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hasibeep/Leetcode_Submission/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hasibeep/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
 |  |
@@ -355,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hasibeep/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
