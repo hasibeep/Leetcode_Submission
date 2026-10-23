@@ -5,7 +5,6 @@ public:
         
         int n=nums.size();
         int k=-1;
-        if(is_sorted(nums.begin(),nums.end())) return 0;
         for(int i=0;i<n;i++){
 
             if(nums[i]!=i){
@@ -13,6 +12,6 @@ public:
             }
               
         }
-        return k;
+        return k==-1?0:k;
     }
 };
