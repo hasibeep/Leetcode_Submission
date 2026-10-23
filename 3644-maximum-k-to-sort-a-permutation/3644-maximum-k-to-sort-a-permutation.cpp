@@ -1,7 +1,7 @@
 class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
-        vector<int>v;
+         vector<int>v;
         
         int n=nums.size();
         int k=-1;
