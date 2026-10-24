@@ -8,9 +8,9 @@ public:
     }
     int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
         vector<int>v{31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-        vector<int>monthday(12,0);
-        monthday[0]=31;
-        for(int i=1;i<12;i++){
+        vector<int>monthday(13,0);
+        monthday[1]=31;
+        for(int i=2;i<=12;i++){
             monthday[i]=monthday[i-1]+v[i-1];
         }
         int arrivealice=findDay(arriveAlice,monthday);
