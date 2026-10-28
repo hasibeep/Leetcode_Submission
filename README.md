@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/hasibeep/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hasibeep/Leetcode_Submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0930-binary-subarrays-with-sum) |
 | [1096-brace-expansion-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hasibeep/Leetcode_Submission/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hasibeep/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -420,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
