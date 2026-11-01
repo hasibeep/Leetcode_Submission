@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hasibeep/Leetcode_Submission/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hasibeep/Leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/hasibeep/Leetcode_Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hasibeep/Leetcode_Submission/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/hasibeep/Leetcode_Submission/tree/master/0735-asteroid-collision) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hasibeep/Leetcode_Submission/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hasibeep/Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hasibeep/Leetcode_Submission/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hasibeep/Leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/hasibeep/Leetcode_Submission/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hasibeep/Leetcode_Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hasibeep/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
