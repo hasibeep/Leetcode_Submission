@@ -5,7 +5,7 @@ public:
         sort(nums.begin(), nums.end());
 
         unordered_map<int,int> dp;
-        int ans = 1;
+        int ans = 0;
 
         for(int x : nums) {
             dp[x+1] = dp[x] + 1;
